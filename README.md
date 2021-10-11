@@ -13,6 +13,7 @@
 - [Use Case](Concepts/UseCase.png)
 - [Поток данных](Concepts/DataStream.png)
 - [Видение-схема](Concepts/Vision.jpg)
+- [Модель предметной области](Concepts/DomainModel.jpg)
 
 ## Дизайн
 
