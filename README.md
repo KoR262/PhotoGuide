@@ -11,6 +11,7 @@
 
 - [Первоначальный концепт](Concepts/Concept_v1.png)
 - [Use Case](Concepts/UseCase.png)
+- [Use Case V2](Concepts/UseCaseV2.png)
 - [Поток данных](Concepts/DataStream.png)
 - [Видение-схема](Concepts/Vision.jpg)
 - [Модель предметной области](Concepts/DomainModel.jpg)
