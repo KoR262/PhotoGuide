@@ -14,8 +14,9 @@
 - [Use Case V2 без регистрации](Concepts/UseCaseV2WithoutRegistration.png)
 - [Поток данных](Concepts/DataStream.png)
 - [Видение-схема](Concepts/Vision.jpg)
-- [Модель предметной области](Concepts/DomainModel.jpg)
+- [Сущности](Concepts/Entities.jpg)
 - [Модель предметной области V2](Concepts/DomainModelUML.png)
+- [IDEF0](Concepts/IDEF0.jpg)
 
 ## Дизайн
 
