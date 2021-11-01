@@ -12,7 +12,7 @@
 - [Первоначальный концепт](Concepts/Concept_v1.png)
 - [Use Case V2](Concepts/UseCaseV2.png)
 - [Use Case V2 без регистрации](Concepts/UseCaseV2WithoutRegistration.png)
-- [Поток данных](Concepts/DataStream.png)
+- [Диаграмма потока данных](Concepts/DataFlowDiagram.png)
 - [Видение-схема](Concepts/Vision.jpg)
 - [Сущности](Concepts/Entities.jpg)
 - [Модель предметной области V2](Concepts/DomainModelUML.png)
