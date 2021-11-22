@@ -20,7 +20,7 @@
 
 ## Дизайн
 
-***В разработке***
+- [Ссылка на предварительный дизайн](https://www.figma.com/file/nkWXdTVxX2eZmVZ8grq6Dr/Untitled?node-id=0%3A1)
 
 ## Ссылка на тестовую версию
 
