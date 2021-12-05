@@ -7,6 +7,7 @@
 - [Видение](Documents/Vision.md)
 - [Описание работ](Documents/DescriptionWork.md)
 - [Диаграмма последовательности](Documents/SequenceDiagram.md)
+- [Дополнительная спецификация](Documents/AdditionalSpecification.md)
 
 ## Концепты
 
