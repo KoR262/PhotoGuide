@@ -19,6 +19,12 @@
 - [Сущности](Concepts/Entities.jpg)
 - [Модель предметной области V2](Concepts/DomainModelUML.png)
 - [IDEF0](Concepts/IDEF0.jpg)
+- [IDEF0 (Общая)](Concepts/IDEF0_v2.jpg)
+- [IDEF1X](Concepts/IDEF1X.jpg)
+- [BPMN](Concepts/BPMN.jpg)
+- [EPC](Concepts/EPC.jpg)
+- [Диаграмма состояний](Concepts/AD.jpg)
+
 
 ## Дизайн
 
